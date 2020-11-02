@@ -1,0 +1,11 @@
+name: Budowniczy
+version: 1.0
+author: Pijok
+main: pl.Pijok.Budowniczy.Main
+commands:
+  gm:
+    usage: /gm
+  speed:
+    usage: /speed
+  tp:
+    usage: /tp
