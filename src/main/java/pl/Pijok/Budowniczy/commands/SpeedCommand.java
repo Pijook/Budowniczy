@@ -42,8 +42,8 @@ public class SpeedCommand implements CommandExecutor {
                 player.setWalkSpeed(speed);
                 player.sendMessage(ChatUtils.fixColor("&aUstawiono predkosc chodzenia na &7" + speed));
             }
-
             return true;
+
         }
 
         player.sendMessage(ChatUtils.fixColor("&7/" + label + " <speed>"));
