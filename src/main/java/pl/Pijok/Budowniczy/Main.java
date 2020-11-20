@@ -4,7 +4,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 import pl.Pijok.Budowniczy.commands.GmCommand;
 import pl.Pijok.Budowniczy.commands.SpeedCommand;
 import pl.Pijok.Budowniczy.commands.TpCommand;
-import pl.Pijok.Budowniczy.listeners.ChatListener;
 import pl.Pijok.Budowniczy.listeners.EntitySpawnListener;
 import pl.Pijok.Budowniczy.listeners.JoinListener;
 import pl.Pijok.Budowniczy.listeners.QuitListener;
